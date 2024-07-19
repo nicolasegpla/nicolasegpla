@@ -8,7 +8,7 @@
 ```javascript
 const skills = {
   Language: "JavaScript",
-  Libreria/framework: ["Next.js", "React.js"],
+  Libreria/framework: ["Next.js", "React.js", "Redux toolkit"],
   Style: ["CSS3", "Sass", "Tailwindcss"],
   Backend: "Strapi"
   Design: ["Figma", "Photoshop"],
