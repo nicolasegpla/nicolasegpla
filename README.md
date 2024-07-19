@@ -8,10 +8,10 @@
 ```javascript
 const skills = {
   Language: "JavaScript",
-  Libreria/framework: "React.js",
+  Libreria/framework: ["Next.js", "React.js"],
   Style: ["CSS3", "Sass", "Tailwindcss"],
   Backend: "Strapi"
-  Design: ["Figma", "Photoshop", "Creative Cloud"],
+  Design: ["Figma", "Photoshop"],
   Tools: ["Storybook", "Vite.js", "Git" ]
 };
 
