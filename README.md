@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 🚀 MVP Development Experience
+## 🚀 MVP Development Experience
 
 As a frontend developer, I’ve built MVPs (Minimum Viable Products) for digital solutions in the **healthcare**, **construction**, and **finance** sectors. I focus on delivering functional and scalable products in early development stages, helping teams validate ideas quickly and iterate with confidence.
 
