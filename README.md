@@ -29,7 +29,7 @@ Stack: React · TypeScript · JavaScript · Sass · Tailwind CSS · Docker · AW
 
 <!-- Option A: Skill Icons (simple and clean) -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,sass,tailwind,docker,aws,postgres,python,fastapi&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,sass,tailwind,docker,aws,postgres,python,fastapi,figma,linux&perline=6" />
 </p>
 
 <!-- Option B: Shields badges (more “badge-like”) -->
