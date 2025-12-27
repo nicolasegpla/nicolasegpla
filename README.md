@@ -1,20 +1,25 @@
 # Hi there 👋
 
-## 🚀 MVP Development Experience
-Desarrollo productos digitales web end-to-end, convirtiendo requerimientos en experiencias claras y funcionales, conectadas a servicios y listas para producción. En mis proyectos he construido y entregado MVPs y módulos completos, trabajando desde la UI hasta la integración con backend e infraestructura.
+I build web products with a primary focus on Frontend Engineering, turning requirements into clear, accessible, and production-ready interfaces. I’ve delivered MVPs and complete modules, leading frontend architecture: modular design, reusable components, state management, routing, forms, quality (testing), and documentation to scale with minimal friction.
 
-Mi aporte se centra en ejecución con base técnica sólida: arquitectura modular en frontend, componentes reutilizables, código mantenible y documentación para que el producto pueda crecer sin fricción.
+I have experience integrating the frontend with APIs and deployment workflows, which allows me to contribute to end-to-end product delivery while remaining frontend-focused.
 
-Implementaciones y entregables en proyectos reales:
+Frontend Expertise
 
-Interfaces en React + TypeScript (ruteo, manejo de estado, formularios, consumo de APIs y UI consistente)
+React + TypeScript: UI architecture, routing, state management, forms, API consumption, consistent UI patterns
 
-APIs REST con FastAPI (Python) (endpoints, validación, integración y despliegue)
+Styling & UI: Sass, Tailwind CSS, reusable UI patterns and components
 
-Persistencia con PostgreSQL (modelado y operación)
+Maintainability: modularity, documentation, and engineering standards
 
-Servicios reproducibles con Docker y Docker Compose
+Complementary Experience for End-to-End Delivery
 
-Despliegues en DigitalOcean y AWS (EC2/RDS; Lambda para procesamiento; API Gateway/Route 53/ACM; CloudWatch; ECR; SES).
+Integrating with REST APIs and data models
 
-React.js · JavaScript · TypeScript · FastAPI (Python) · PostgreSQL · Docker · Docker Compose · AWS (EC2, RDS/Aurora, Lambda, API Gateway, Route 53, ACM, CloudWatch, SES, ECR) · DigitalOcean · Sass · Tailwind css.
+Basic experience building APIs with Python + FastAPI (endpoints, validation, and documentation)
+
+Docker/Docker Compose for reproducible environments
+
+Deployments and infrastructure on AWS and DigitalOcean (integration and delivery context)
+
+Stack: React · TypeScript · JavaScript · Sass · Tailwind CSS · Docker · AWS · DigitalOcean · PostgreSQL · Python (FastAPI)
