@@ -41,7 +41,6 @@ Stack: React · TypeScript · JavaScript · Sass · Tailwind CSS · Docker · AW
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
