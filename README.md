@@ -22,9 +22,6 @@ Docker/Docker Compose for reproducible environments
 
 Deployments and infrastructure on AWS and DigitalOcean (integration and delivery context)
 
-Stack: React · TypeScript · JavaScript · Sass · Tailwind CSS · Docker · AWS · DigitalOcean · PostgreSQL · Python (FastAPI)
-
-
 ## Tech Stack
 
 <!-- Option A: Skill Icons (simple and clean) -->
